@@ -27,3 +27,13 @@ Cálculo del total según la duración de la reserva.
 Espacios representados como botones organizados en filas y columnas.
 
 Diferenciación visual entre espacios disponibles y ocupados.
+
+📌 Tecnologías Utilizadas
+
+Next.js - Framework de React para desarrollo web.
+
+Redux Toolkit - Gestión de estado global.
+
+Bootstrap - Estilización y diseño responsivo.
+
+JavaScript (ES6+) - Lenguaje principal del desarrollo.
